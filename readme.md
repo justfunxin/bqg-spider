@@ -1,7 +1,7 @@
 # 笔趣阁爬虫
 
 ## 解析器：
-- 解析笔趣阁
+- 解析[笔趣阁](https://www.xbiquge.bz)
 - 自定义解析器：实现`ContentParser`接口，并注册到`FastDownloader`中
 
 ## 导出器：
