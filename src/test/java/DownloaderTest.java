@@ -1,9 +1,6 @@
 import engine.FastDownloader;
-import exporter.Exporter;
-import exporter.TextExporter;
 import org.junit.Before;
 import org.junit.Test;
-import source.Biquge;
 
 public class DownloaderTest {
 
